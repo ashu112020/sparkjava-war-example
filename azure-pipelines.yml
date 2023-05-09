@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: myubuntu
+  name: default
 
 steps:
 - task: Maven@3
